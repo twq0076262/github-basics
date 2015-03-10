@@ -1,4 +1,4 @@
-- GitHub 初识  
+- [GitHub 初识](github-first.md) 
  - GitHub 简介
  - GitHub 优势
  - GitHub 注册 https://help.github.com/articles/signing-up-for-a-new-github-account/
