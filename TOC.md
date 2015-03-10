@@ -45,13 +45,13 @@ git branch
  - 添加 Tag  
 
 - 图形化工具
- - GitHub for Windows https://help.github.com/categories/github-for-windows
+ - GitHub for Windows https://help.github.com/categories/github-for-windows   
 安装   
 Fork  
 提交到本地  
 同步到远程仓库   
 
- - GitHub for Mac https://help.github.com/categories/github-for-mac
+ - GitHub for Mac https://help.github.com/categories/github-for-mac   
 安装  
 Fork  
 提交到本地  
