@@ -1,10 +1,10 @@
 - [GitHub 初识](github-first.md) 
- - [GitHub 简介](the-introduction.md)
- - [GitHub 优势](the-advantage.md)
- - [GitHub 注册](sign-up) https://help.github.com/articles/signing-up-for-a-new-github-account/
+ - GitHub 简介
+ - GitHub 优势
+ - GitHub 注册 https://help.github.com/articles/signing-up-for-a-new-github-account/
 
-- [安装 Git](set-up) https://help.github.com/articles/set-up-git/
- - [安装 Git](set-up-git)
+- 安装 Git https://help.github.com/articles/set-up-git/
+ - 安装 Git
  - 通过 Git 验证 GitHub   
   通过 HTTPS 建立连接   
   通过 SSH 建立连接    
